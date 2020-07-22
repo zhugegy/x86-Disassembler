@@ -12,7 +12,7 @@ Executable File Download: [Google Drive](https://drive.google.com/drive/folders/
 
 Features:
 - One-byte Opcode coverage: 100%
-- Two-byte Opcode coverage: 90% (the popular ones) 0F00; 0F80-0F8F; 0F90-0F9F; 0FB6, 0FB7; 0FBE, 0FBF; 0FAF.
+- Two-byte Opcode coverage: 90% (the popular ones) 0F00; 0F80-0F8F; 0F90-0F9F; 0FB6, 0FB7; 0FBE, 0FBF; 0FAF
 - Three-byte Opcode coverage: None 
 
 
@@ -29,6 +29,6 @@ Features:
 可执行文件下载：[蓝奏云](https://wws.lanzous.com/i35rkevi6nc)
 
 功能：
-- 单字节操作码：100%覆盖。
-- 双字节操作码：90%覆盖（最常见的那些） 0F00; 0F80-0F8F; 0F90-0F9F; 0FB6, 0FB7; 0FBE, 0FBF; 0FAF。
-- 三字节操作码：没有写。
+- 单字节操作码：100%覆盖
+- 双字节操作码：90%覆盖（最常见的那些） 0F00; 0F80-0F8F; 0F90-0F9F; 0FB6, 0FB7; 0FBE, 0FBF; 0FAF
+- 三字节操作码：没有写
