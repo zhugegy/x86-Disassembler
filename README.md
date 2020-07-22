@@ -2,7 +2,7 @@
 
 ![title_img](misc/title_img.png)
 
-Intel x86 disassembler. Copy the opcode into the input.txt file, and the disassembler will output the result to the console and the output.txt file.
+Copy the opcode into the input.txt file, and the disassembler will output the result to the console and the output.txt file.
 
 Reference: Appendix A OPCODE MAP in [Intel 64 and IA-32 Architectures Software Developer's Manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf).
 
@@ -20,7 +20,7 @@ Features:
 
 ![title_img](misc/title_img.png)
 
-x86 Intel处理器的反汇编引擎。把操作码复制到input.txt文件，反汇编引擎会把结果输出到命令行窗口和output.txt文件。
+把操作码复制到input.txt文件，反汇编引擎会把结果输出到命令行窗口和output.txt文件。
 
 参考资料： [Intel 64 and IA-32 Architectures Software Developer's Manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)的附录A OPCODE MAP。
 
